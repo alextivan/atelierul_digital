@@ -1,2 +1,2 @@
 # atelierul_digital
-google andriod
+google android
